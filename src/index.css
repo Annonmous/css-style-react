@@ -1,0 +1,29 @@
+
+.heading
+{
+  color: aquamarine;
+  text-align: center;
+  text-transform:capitalize ;
+  font-style: italic;
+  margin: 70px 0;
+}
+
+.para
+{
+  color: brown;
+  text-align: right;
+  text-transform: capitalize;
+  font-size: large;
+  font-style: oblique;
+  font-weight: bolder;
+}
+.img_div
+{
+  display: flex;
+  justify-content: center;
+}
+.img_div
+{
+  width: 150px;
+  height: 120px;
+}
